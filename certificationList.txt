@@ -6,3 +6,4 @@
 ・Microsoft Certified: Azure AI Engineer Associate
   - Exam AI-100: Designing and Implementing an Azure AI Solution
 + others
+  add something
