@@ -7,4 +7,4 @@
   - Exam AI-100: Designing and Implementing an Azure AI Solution
 + others
   add something
-confTest2
+confTest
