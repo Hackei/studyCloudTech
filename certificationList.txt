@@ -1,0 +1,8 @@
+・Google Cloud Certified - Professional Data Engineer 
+・AWS Certificated Solutions Architect - Professional
+・Microsoft Certified: Azure Solutions Architect Expert
+  - Exam AZ-300: Microsoft Azure Architect Technologies
+  - Exam AZ-301: Microsoft Azure Architect Design
+・Microsoft Certified: Azure AI Engineer Associate
+  - Exam AI-100: Designing and Implementing an Azure AI Solution
+  
